@@ -26,6 +26,10 @@
    "code-runner.runInTerminal": true,
    "code-runner.executorMap": {
       "cpp": "cd $dir && C:\\MinGW\\bin\\g++ *.cpp -o build\\$fileNameWithoutExt.exe -std=c++11 -O3 -g3 -Wall -fmessage-length=0 -march=native && Start-Process cmd '/c build\\$fileNameWithoutExt.exe & pause'",
+   },
+   "files.associations": {
+      "iostream": "cpp",
+      "ostream": "cpp"
    }
 }
 //https://github.com/formulahendry/vscode-code-runner/issues/416
