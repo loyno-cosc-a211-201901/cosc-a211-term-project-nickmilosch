@@ -1,0 +1,3 @@
+Fri Dec 13 20:14:25 CST 2019
+interesting
+"high group of symmetry" doesn't report character tables for some reason
